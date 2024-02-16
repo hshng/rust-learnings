@@ -1,0 +1,1 @@
+/Users/hsenghng/Desktop/repositories/personal_projects/rust-learnings/projects/guessing_game/target/debug/guessing_game: /Users/hsenghng/Desktop/repositories/personal_projects/rust-learnings/projects/guessing_game/src/main.rs

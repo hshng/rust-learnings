@@ -1,0 +1,1 @@
+/Users/hsenghng/Desktop/repositories/personal_projects/rust-learnings/projects/hello_cargo/target/debug/hello_cargo: /Users/hsenghng/Desktop/repositories/personal_projects/rust-learnings/projects/hello_cargo/src/main.rs
